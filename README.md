@@ -1,3 +1,5 @@
+# CRÉDITOS Invertebr4do -> https://github.com/Invertebr4do
+
 <h1>EASY-PWM</h1>
 
 [![Logo](https://github.com/Invertebr4do/EASY-PWM/blob/main/img/img_header.png?raw=true "Logo")](https://github.com/Invertebr4do/EASY-PWM/blob/main/img_header.png?raw=true "Logo")
