@@ -20,7 +20,7 @@ Esta utilidad está pensada para que sea completamente automática, esto te perm
 <strong>SE RECOMIENDA RALIZAR EL PROCEDIMIENTO EN UNA ISO NUEVA</strong>
 - Clonamos el repositorio
 ```
-git clone https://github.com/Invertebr4do/EASY-PWM
+git clone https://github.com/AbelardoFelipe/bspwm-debian
 ```
 - Nos metemos en el directorio, asignamos permisos de ejecución a la herramienta
 
