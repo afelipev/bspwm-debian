@@ -25,7 +25,7 @@ git clone https://github.com/AbelardoFelipe/bspwm-debian
 - Nos metemos en el directorio, asignamos permisos de ejecución a la herramienta
 
 ```
-cd EASY-PWM && chmod +x EASY-PWM.sh
+cd bspwm-debian && chmod +x EASY-PWM.sh
 ```
 - Y ejecutamos EASY-PWM.sh
 
